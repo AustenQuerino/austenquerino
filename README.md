@@ -6,6 +6,4 @@ I was later head-hunted by a medium size asset management firm ($77b AUM) called
 
 Although I have worked solely in the financial industry, I do also have a strong interest in technology and the power of computer programming. This interest has led me to enrol in the Nucamp Coding Bootcamp for Backend Development. This bootcamp includes three sections: 1. Python fundamentals, data structures and algorithms, 2. SQL with Python, Postgres, Docker, Flask, Django and SDLC, CI/CD, 3. DevOps including Amazon AWS, Microsoft Azure, Google Cloud/Firestone. With these powerful tools I am able to create code that makes my tasks more efficient and myself more productive. 
 
-![image](https://user-images.githubusercontent.com/110211748/196049497-bcba11f5-106c-44e6-b24e-7dd3a2ab6b24.png)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AustenQuerino)](https://github.com/anuraghazra/github-readme-stats)
