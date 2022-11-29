@@ -4,7 +4,7 @@
 #### Backend Developer and Financial Professional
 I'm Austen from Canada, and I am a Backend developer who loves working with data. I really enjoy learning programming languages and frameworks like Python and SQL as well as JavaScript.
 
-Skills: Python/ JavaScript/ SQL/ HTML/ CSS/ VBA/ Docker/ Flask/ Django
+Skills: Python/ JavaScript/ SQL/ HTML/ CSS/ VBA/ Docker/ Flask/ Django/ Docker 
 
 I am an investment professional who has worked in the financial services industry for more than 6 years. Attending the University of Western Ontario from 2011 to 2015, I graduated with a Bachelor of Management and Organizational Studies with a Specialization in Finance. Right out of University I worked for one of the big five banks in Canada, TD Bank where I learned a lot about the banking industry. Although my time in retail banking was a great learning experience, I was more intrigued by the investment and asset management industry and was employed by an early-stage asset manager called Crimson Asset Management. Crimson was a spine-off from a more established asset manager called Burgundy Asset Management. At Crimson I was employee number two which required me to wear many different hats. I was part of the investment team where we did research in public small-cap North American companies using DCF model construction along with industry analysis. I also worked on the fund accounting to ensuring our portfolios we reconciled. As the team was small, I was also on the pitch/sales team to introduce the company to prospectus investors. 
 
