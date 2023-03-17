@@ -12,8 +12,8 @@ I was later head-hunted by a medium size asset management firm ($77b AUM) called
 
 Although I have worked solely in the financial industry, I do also have a strong interest in technology and the power of computer programming. This interest has led me to enrol in the Nucamp Coding Bootcamp for Backend Development. This bootcamp includes three sections: 1. Python fundamentals, data structures and algorithms, 2. SQL with Python, Postgres, Docker, Flask, Django and SDLC, CI/CD, 3. DevOps including Amazon AWS, Microsoft Azure, Google Cloud/Firestone. With these powerful tools I am able to create code that makes my tasks more efficient and myself more productive. 
 
-- 🔭 I’m currently working on My own computer vision project. 
-- 🌱 I’m currently learning SQL/ Flask/ Machine Learning  
+- 🔭 I’m currently working on a twitter clone using the Python Django framework. 
+- 🌱 I’m currently learning Django/ Flask/ Machine Learning  
 - 👯 I’m looking to collaborate on Machine Learning/ Robotics 
 - 🤔 I’m looking for help with Machine Learning/ Robotics 
 
