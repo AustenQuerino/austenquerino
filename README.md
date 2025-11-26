@@ -31,6 +31,6 @@ Bachelor of Management and Organizational Studies (Finance) from Western Ontario
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AustenQuerino&show_icons=true&theme=dark)](https://github.com/AustenQuerino)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AustenQuerino&show_icons=true&theme=dark)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AustenQuerino)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13487384)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/austenquerino)
