@@ -1,22 +1,36 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AustenQuerino)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋, my name is Austen
-#### Backend Developer and Financial Professional
-I'm Austen from Canada, and I am a Backend developer who loves working with data. I really enjoy learning programming languages and frameworks like Python and SQL as well as JavaScript.
+### Hi there 👋, I'm Austen
 
-Skills: Python/ JavaScript/ SQL/ HTML/ CSS/ VBA/ Docker/ Flask/ Django/ Docker 
+#### Data Engineer & Analytics Professional
 
-I am an investment professional who has worked in the financial services industry for more than 6 years. Attending the University of Western Ontario from 2011 to 2015, I graduated with a Bachelor of Management and Organizational Studies with a Specialization in Finance. Right out of University I worked for one of the big five banks in Canada, TD Bank where I learned a lot about the banking industry. Although my time in retail banking was a great learning experience, I was more intrigued by the investment and asset management industry and was employed by an early-stage asset manager called Crimson Asset Management. Crimson was a spin-off from a more established asset manager called Burgundy Asset Management. At Crimson I was employee number two which required me to wear many different hats. I was part of the investment team where we did research in public small-cap North American companies using DCF model construction along with industry analysis. I also worked on the fund accounting to ensuring our portfolios we reconciled. As the team was small, I was also on the pitch/sales team to introduce the company to prospectus investors. 
+I'm a data-driven technologist specializing in building end-to-end data infrastructure and business intelligence solutions at **Octus Intelligence** (formerly Reorg Research). 
+I bridge the gap between complex data systems and actionable business insights.
 
-I was later head-hunted by a medium size asset management firm ($77b AUM) called Connor Clark & Lunn (CC&L) Financial Group where I work for the Private Capital affiliate. There I conducted research and analysis to identify and evaluate investment opportunities in a broad spectrum of asset classes including public and private equities, real estate, infrastructure, private debt, and even quantitative and algorithmic strategies. At CC&L we work with institutional and large private clients including family offices, foundations, endowments, charities, and Aboriginal Communities. 
+**What I Do:**
+- 🔧 Design automated data pipelines integrating 20+ sources (GA4, Salesforce, Heap, Pardot, LinkedIn Ads, Private Credit CLO data, and more)
+- 📊 Build BI dashboards and analytics solutions using Sigma, enabling data-driven decision-making
+- ⚙️ Develop dbt transformation models with semantic layers to standardize metrics
+- 🐍 Automate operational workflows with Python scripting and REST APIs
 
-Although I have worked solely in the financial industry, I do also have a strong interest in technology and the power of computer programming. This interest has led me to enrol in the Nucamp Coding Bootcamp for Backend Development. This bootcamp includes three sections: 1. Python fundamentals, data structures and algorithms, 2. SQL with Python, Postgres, Docker, Flask, Django and SDLC, CI/CD, 3. DevOps including Amazon AWS, Microsoft Azure, Google Cloud/Firestone. With these powerful tools I am able to create code that makes my tasks more efficient and myself more productive. 
+**Tech Stack:**
+- **Data Engineering:** SQL, Python, Snowflake, BigQuery, dbt, Airbyte
+- **Analytics & BI:** Sigma, Power BI, data visualization
+- **Development:** Django, Flask, REST APIs, Docker
+- **DevOps:** Git, GitHub, Azure DevOps, CI/CD pipelines
+- **Cloud & Databases:** AWS, GCP, PostgreSQL, MySQL
 
-- 🔭 I’m currently working on a twitter clone using the Python Django framework. 
-- 🌱 I’m currently learning Django/ Flask/ Machine Learning  
-- 👯 I’m looking to collaborate on Machine Learning/ Robotics 
-- 🤔 I’m looking for help with Machine Learning/ Robotics 
+**Background:**
+6+ years in financial services (asset management, private capital) combined with technical expertise in backend development and data engineering. 
+Bachelor of Management and Organizational Studies (Finance) from Western Ontario + Nucamp Coding Bootcamp (Backend, SQL, DevOps).
 
+**Currently:**
+- 🔭 Building scalable data pipelines and analytics infrastructure
+- 🌱 Expanding expertise in data modeling and semantic layers
+- 💡 Passionate about data quality, automation, and operational excellence
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AustenQuerino)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/user:13487384)  
+---
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AustenQuerino&show_icons=true&theme=dark)](https://github.com/AustenQuerino)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AustenQuerino)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13487384)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/austenquerino)
